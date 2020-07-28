@@ -53,7 +53,7 @@ const About = () => {
 					<h5
 						id='text'
 						style={{
-							marginTop: "10%",
+							marginTop: "5%",
 							backgroundColor: "white",
 						}}
 					>
@@ -69,18 +69,45 @@ const About = () => {
 						>
 							Hello,
 						</span>
-						I am currently persuing my Masters degree at UNCC charlotte and
-						looking for full time job Software Engineer job for 2021. I am
-						intrested to work as Software Developer , Web Developer , Mobile or
-						Hybrid Application Developer or Date Science Engineer. I have worked
-						of these tools and done some projects .<br />
+						I am currently pursuing my Masters degree at UNCC charlotte and
+						looking for full time Software Engineer job for 2021. I am intrested
+						to work as Software Developer , Web Developer , Mobile or Hybrid
+						Application Developer or Date Science Engineer. I have worked of
+						these tools and done some projects .<br />
 						<br />
 						&nbsp; &nbsp; &nbsp; &nbsp;With my year and half of industrial
-						experience and strong understanding of Algorithems and Data
-						Structures learned from my course curriculum and enthusiasm learn. I
-						would be able to solve the real world problems or challenges that
-						comes across me.
+						experience and strong understanding of Algorithms and Data
+						Structures learned from my course curriculum and enthusiasm to
+						learn. I would be able to solve the real world problems or
+						challenges that come across me.
 					</h5>
+					<br></br>
+					<br></br>
+					<br></br>
+					<div style={{ backgroundColor: "white" }}>
+						<h4 style={{ color: "#903" }}>Skills :</h4>
+						<br></br>
+						<h5>
+							languages:{" "}
+							<span style={{ color: "#566573" }}>
+								Java, JavaScript, Python, HTML, CSS
+							</span>{" "}
+						</h5>
+						<h5>
+							FrameWork:{" "}
+							<span style={{ color: "#566573" }}>
+								React JS, Angular, SpringBoot, Node js, ReactNative, Ionic,
+								Flask
+							</span>
+						</h5>
+						<h5>
+							Tool:{" "}
+							<span style={{ color: "#566573" }}>
+								{" "}
+								Android, Anaconda, Node js, Pycharam, Eclipse
+							</span>
+						</h5>
+					</div>
 				</Fade>
 			</div>
 		</div>
