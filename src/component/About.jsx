@@ -70,10 +70,10 @@ const About = () => {
 							Hello,
 						</span>
 						I am currently pursuing my Masters degree at UNCC charlotte and
-						looking for full time Software Engineer job for 2021. I am intrested
+						looking for full time Software Engineer job for 2021. I am interested
 						to work as Software Developer , Web Developer , Mobile or Hybrid
-						Application Developer or Date Science Engineer. I have worked of
-						these tools and done some projects .<br />
+						Application Developer or Date Science Engineer. I have worked on
+						these software and done some projects on it.<br />
 						<br />
 						&nbsp; &nbsp; &nbsp; &nbsp;With my year and half of industrial
 						experience and strong understanding of Algorithms and Data
