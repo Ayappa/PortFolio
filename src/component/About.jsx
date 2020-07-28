@@ -79,7 +79,7 @@ const About = () => {
 						experience and strong understanding of Algorithms and Data
 						Structures learned from my course curriculum and enthusiasm to
 						learn. I would be able to solve the real world problems or
-						challenges that come across me.
+						challenges that comes across me.
 					</h5>
 					<br></br>
 					<br></br>

@@ -25,10 +25,10 @@ const Work = () => {
 				<div class='card-body'>
 					<h5 class='card-title'>Software Developer (Python)</h5>
 					<p class='card-text'>
-						Build dynamic stratiges using data set from yahoo finance and
+						Build dynamic strategies using data set from yahoo finance and
 						calculate sell or buy of stocks by calculating various index using
-						tablib liberty , by using users input filters to buy or sell stocks.
-						And Building Custom Stratiges to calculate sell or buy of stratiges
+						tablib library , by using users input filters to buy or sell stocks.
+						And Building Custom strategies to calculate sell or buy of strategies
 						using various index and dataset using python.
 					</p>
 				</div>
@@ -58,7 +58,7 @@ const Work = () => {
 						Associate Software Engineer (Java, Spring, Sql)
 					</h5>
 					<p class='card-text'>
-						Build web app usng spring, which include core concepts of Inversion
+						Build web app using spring, which includes core concepts of Inversion
 						of control , Dependencies Injection, Spring annotations, JDBC, XML
 						configuration, filters, Spring JPA, Authentication and Authorization
 						using JSON web tokens.
