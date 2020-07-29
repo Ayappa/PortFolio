@@ -25,11 +25,23 @@ const Work = () => {
 				<div class='card-body'>
 					<h5 class='card-title'>Software Developer (Python)</h5>
 					<p class='card-text'>
-						Build dynamic strategies using data set from yahoo finance and
-						calculate sell or buy of stocks by calculating various index using
-						tablib library , by using users input filters to buy or sell stocks.
-						And Building Custom strategies to calculate sell or buy of strategies
-						using various index and dataset using python.
+						<ul>
+							<li>
+								Build dynamic strategies using data set from yahoo finance{" "}
+							</li>
+							<li>
+								Calculate sell or buy of stocks by calculating various index
+								using tablib library in dynamic strategies{" "}
+							</li>
+
+							<li>
+								Building Custom strategies to calculate sell or buy of
+								strategies using various index and dataset using python
+							</li>
+							<li>
+								Using users input filters from customers to calculate strategies{" "}
+							</li>
+						</ul>
 					</p>
 				</div>
 			</div>
@@ -58,10 +70,15 @@ const Work = () => {
 						Associate Software Engineer (Java, Spring, Sql)
 					</h5>
 					<p class='card-text'>
-						Build web app using spring, which includes core concepts of Inversion
-						of control , Dependencies Injection, Spring annotations, JDBC, XML
-						configuration, filters, Spring JPA, Authentication and Authorization
-						using JSON web tokens.
+						<ul>
+							<li>Build web app using spring</li>
+							<li>
+								which includes core concepts of Inversion of control ,
+								Dependencies Injection, Spring annotations, JDBC, XML
+								configuration, filters, Spring JPA, Authentication and
+								Authorization using JSON web tokens.
+							</li>
+						</ul>
 					</p>
 				</div>
 			</div>
@@ -90,12 +107,23 @@ const Work = () => {
 				<div class='card-body'>
 					<h5 class='card-title'>Software Developer (React, Node, Js)</h5>
 					<p class='card-text'>
-						Build web Apps for real estate, So customers can view properties,
-						and contact the agents with messaging features. And Allow owners to
-						post adds on the website . Front end was react using hooks to handle
-						app level state , back end node as rest API, authentication and
-						authorization using JSON web tokens . Firebase as data store for
-						storing images and notification of messages.
+						<ul>
+							<li>
+								Build web Apps for real estate, So customers can view
+								properties, and contact the agents with messaging features.
+							</li>
+							<li>Allow owners to post adds on the website .</li>
+							<li>
+								Front end was react using hooks to handle app level state , back
+								end node as rest API, authentication and authorization using
+								JSON web tokens .{" "}
+							</li>
+							<li>
+								{" "}
+								Firebase as data store for storing images and notification of
+								messages.
+							</li>
+						</ul>
 					</p>
 				</div>
 			</div>

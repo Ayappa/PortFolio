@@ -67,19 +67,17 @@ const About = () => {
 								paddinLeft: "3px",
 							}}
 						>
-							Hello,
+							Hello!
 						</span>
-						I am currently pursuing my Masters degree at UNCC charlotte and
-						looking for full time Software Engineer job for 2021. I am interested
-						to work as Software Developer , Web Developer , Mobile or Hybrid
-						Application Developer or Date Science Engineer. I have worked on
-						these software and done some projects on it.<br />
-						<br />
-						&nbsp; &nbsp; &nbsp; &nbsp;With my year and half of industrial
-						experience and strong understanding of Algorithms and Data
-						Structures learned from my course curriculum and enthusiasm to
-						learn. I would be able to solve the real world problems or
-						challenges that comes across me.
+						I am a Computer Science graduate student at the University of North
+						Carolina at Charlotte with skills in full stack and Data Science.
+						Passionate about evolving technologies and eager to meld with the
+						futuristic world with great zeal and enthusiasm. and create
+						applications that improve quality of life. <br />
+						<br /> &nbsp; &nbsp; &nbsp; &nbsp;Having worked on projects focused
+						on real world problems and year half of industrial experience, I am
+						currently seeking full-time opportunities . I strive to continuously
+						learn, improve my knowledge base and grow as a person.
 					</h5>
 					<br></br>
 					<br></br>
