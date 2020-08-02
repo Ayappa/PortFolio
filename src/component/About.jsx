@@ -88,7 +88,7 @@ const About = () => {
 						<h5>
 							languages:{" "}
 							<span style={{ color: "#566573" }}>
-								Java, JavaScript, Python, HTML, CSS
+								C, C++, Java, JavaScript, Python, HTML, CSS
 							</span>{" "}
 						</h5>
 						<h5>
@@ -102,7 +102,7 @@ const About = () => {
 							Tool:{" "}
 							<span style={{ color: "#566573" }}>
 								{" "}
-								Android, Anaconda, Node js, Pycharam, Eclipse
+								Android, Anaconda, Node js, Pycharm, Eclipse
 							</span>
 						</h5>
 					</div>

@@ -153,7 +153,7 @@ export const data = {
 				name: "Contact-Keeper FrontEnd",
 				tools: ["React", "Node.js", "HTML", "CSS", "JavaScript"],
 				link:
-					"https://github.com/Ayappa/Contact-Keeper--MERN-stack-app-using-React/tree/master/middleware",
+					"https://github.com/Ayappa/Contact-Keeper--MERN-stack-app-using-React",
 				description:
 					"Authenticate and Authorize users to add , edit or lookup contacts . With Node as backend.",
 			},
