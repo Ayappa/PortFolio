@@ -272,6 +272,24 @@ export const data = {
 				link: "https://github.com/Ayappa/BudgetApp-ionic4",
 				description: "Add , edit or delete expenses on local storage",
 			},
+			{
+				id: 23,
+				name: "ChatBox",
+				tools: [
+					"Android",
+					"Java",
+					"Sessions",
+					"API",
+					"MongoDb",
+					"Json Web Token",
+					"Sockets",
+					"wifiP2P",
+					"Barcode",
+				],
+				link: "https://github.com/Ayappa/Business-Card-through-wifiP2p-android",
+				description:
+					"Through QR code scan, we are sharing digital business cards which will have Name, phone number and email to connect and socialize.Through QR code scan, we are connecting with other users over WIFI and sharing messages and images",
+			},
 		],
 	},
 };
