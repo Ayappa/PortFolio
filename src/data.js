@@ -295,6 +295,14 @@ export const data = {
 			},
 			{
 				id: 23,
+				name: "FAQ app",
+				tools: ["Angular", "HTML", "CSS", "JavaScript"],
+				link: "https://github.com/Ayappa/FAQapp--using-Angular",
+				description:
+					"Add frequently asked question and answer with basic crud operations.",
+			},
+			{
+				id: 24,
 				name: "IT-Logger",
 				tools: ["React", "Hooks", "Redux", "HTML", "CSS", "JavaScript"],
 
@@ -303,7 +311,7 @@ export const data = {
 					"Search , create or explore logs and store on local storage.",
 			},
 			{
-				id: 24,
+				id: 25,
 				name: "BudgetApp",
 				tools: ["Ionic4", "Angular", "HTML", "CSS", "JavaScript"],
 				link: "https://github.com/Ayappa/BudgetApp-ionic4",
