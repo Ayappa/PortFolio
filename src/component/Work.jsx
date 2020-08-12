@@ -41,6 +41,13 @@ const Work = () => {
 							<li>
 								Using users input filters from customers to calculate strategies{" "}
 							</li>
+							<li>
+								By creating Dynamic stratiges, Application have saved nearly
+								160hours of time otherwise code for every indicators in the
+								market.And with help of custom stratiges it helps application to
+								make money as it is standard way to measure metrics to buy or
+								sell of stock.
+							</li>
 						</ul>
 					</p>
 				</div>
@@ -77,6 +84,11 @@ const Work = () => {
 								Dependencies Injection, Spring annotations, JDBC, XML
 								configuration, filters, Spring JPA, Authentication and
 								Authorization using JSON web tokens.
+							</li>
+							<li>
+								Using Agile methodology in development and mvc pattern , as
+								saved 100hours of work as it is easy to deburg and improvise the
+								requirements on the fly.
 							</li>
 						</ul>
 					</p>
@@ -122,6 +134,11 @@ const Work = () => {
 								{" "}
 								Firebase as data store for storing images and notification of
 								messages.
+							</li>
+							<li>
+								Creating single page application allowed reuse of components and
+								saved nearly 80hours of work. With simple innterface allowed
+								customers to use application with ease.
 							</li>
 						</ul>
 					</p>

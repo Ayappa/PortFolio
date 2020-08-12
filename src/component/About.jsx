@@ -69,6 +69,7 @@ const About = () => {
 						>
 							Hello!
 						</span>
+						<br></br>
 						I am a Computer Science graduate student at the University of North
 						Carolina at Charlotte with skills in full stack and Data Science.
 						Passionate about evolving technologies and eager to meld with the
