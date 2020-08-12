@@ -25,7 +25,9 @@ const ProjectItem = (props) => {
 				))}
 				]
 			</p>
-			<p>{props.item.description}</p>
+			{props.item.description.map((item) => (
+				<li style={{ textAlign: "left" }}>{item} </li>
+			))}
 
 			<div>
 				<button
