@@ -43,9 +43,9 @@ const Work = () => {
 							</li>
 							<li>
 								By creating Dynamic stratiges, Application have saved nearly
-								160hours of time otherwise code for every indicators in the
-								market.And with help of custom stratiges it helps application to
-								make money as it is standard way to measure metrics to buy or
+								160hours of time otherwise had to code for every indicators available in the
+								market and with help of custom stratiges it helps application to
+								make money as it has standard stratiges to measure metrics and calculate buy or
 								sell of stock.
 							</li>
 						</ul>
@@ -103,7 +103,7 @@ const Work = () => {
 			>
 				<div class='card-header row col-lg-12 col-s-12'>
 					<div className='col-lg-9 col-s-12'>
-						<h2>Sri Manjunatha Retailors</h2>
+						<h2>Sri Manjunatha Retailers</h2>
 						<p>Bangalore, India</p>
 					</div>
 					<div className='col-lg-3 col-s-12 '>
