@@ -42,8 +42,8 @@ const Work = () => {
 								Using users input filters from customers to calculate strategies{" "}
 							</li>
 							<li>
-								By creating Dynamic stratiges, Application have saved nearly
-								160hours of time otherwise had to code for every indicators available in the
+								By creating Dynamic stratiges, application have saved nearly
+								160hours of work time otherwise had to code for every indicators available in the
 								market and with help of custom stratiges it helps application to
 								make money as it has standard stratiges to measure metrics and calculate buy or
 								sell of stock.
@@ -86,8 +86,8 @@ const Work = () => {
 								Authorization using JSON web tokens.
 							</li>
 							<li>
-								Using Agile methodology in development and mvc pattern , as
-								saved 100hours of work as it is easy to deburg and improvise the
+								Using Agile methodology in development and mvc pattern, as
+								saved 100hours of work time as it is easy to deburg and improvise the
 								requirements on the fly.
 							</li>
 						</ul>
@@ -137,7 +137,7 @@ const Work = () => {
 							</li>
 							<li>
 								Creating single page application allowed reuse of components and
-								saved nearly 80hours of work. With simple innterface allowed
+								saved nearly 80hours of work time. With simple innterface allowed
 								customers to use application with ease.
 							</li>
 						</ul>
