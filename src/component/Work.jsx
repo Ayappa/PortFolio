@@ -27,26 +27,17 @@ const Work = () => {
 					<p class='card-text'>
 						<ul>
 							<li>
-								Build dynamic strategies using data set from yahoo finance{" "}
+								Built dynamic and Custom strategies using data sets from yahoo
+								finance and input filters from users.
 							</li>
 							<li>
-								Calculate sell or buy of stocks by calculating various index
-								using tablib library in dynamic strategies{" "}
+								Recommended buying and selling of stocks based on key
+								performance indicators.
 							</li>
 
 							<li>
-								Building Custom strategies to calculate sell or buy of
-								strategies using various index and dataset using python
-							</li>
-							<li>
-								Using users input filters from customers to calculate strategies{" "}
-							</li>
-							<li>
-								By creating Dynamic stratiges, application have saved nearly
-								160hours of work time otherwise had to code for every indicators available in the
-								market and with help of custom stratiges it helps application to
-								make money as it has standard stratiges to measure metrics and calculate buy or
-								sell of stock.
+								Contributed towards optimizing the code which reduced the total
+								hours of work time by nearly 160 hours.
 							</li>
 						</ul>
 					</p>
@@ -78,17 +69,15 @@ const Work = () => {
 					</h5>
 					<p class='card-text'>
 						<ul>
-							<li>Build web app using spring</li>
+							<li>
+								Built web application using spring with agile methodology in
+								development and mvc pattern.
+							</li>
 							<li>
 								which includes core concepts of Inversion of control ,
 								Dependencies Injection, Spring annotations, JDBC, XML
 								configuration, filters, Spring JPA, Authentication and
 								Authorization using JSON web tokens.
-							</li>
-							<li>
-								Using Agile methodology in development and mvc pattern, as
-								saved 100hours of work time as it is easy to deburg and improvise the
-								requirements on the fly.
 							</li>
 						</ul>
 					</p>
@@ -136,9 +125,8 @@ const Work = () => {
 								messages.
 							</li>
 							<li>
-								Creating single page application allowed reuse of components and
-								saved nearly 80hours of work time. With simple innterface allowed
-								customers to use application with ease.
+								Successfully increased the inflow of customers which in turn
+								contributed towards the revenue of the company by 25%.
 							</li>
 						</ul>
 					</p>

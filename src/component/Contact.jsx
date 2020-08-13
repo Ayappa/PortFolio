@@ -107,7 +107,7 @@ const Contact = () => {
 							style={{ margin: "2%" }}
 							onClick={() =>
 								window.open(
-									"https://drive.google.com/file/d/1wG1c_ayXwT2-DSNUdEoEPQJ9A97zvVMe/view?usp=sharing",
+									"https://drive.google.com/file/d/1YjtVA9YSSLtJujBBt7AhOFT1y1snvHFx/view?usp=sharing",
 									"_blank"
 								)
 							}
